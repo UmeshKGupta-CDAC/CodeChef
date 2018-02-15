@@ -3,7 +3,7 @@ package com.ukworld.codechef.easy;
 import java.util.Scanner;
 
 /**
- * Problem Name & Code: ATM (HS08TEST)
+ * Problem Name and Code: ATM (HS08TEST)
  * problem link: https://www.codechef.com/problems/HS08TEST
  */
 public class ATM {

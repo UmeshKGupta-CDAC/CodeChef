@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.BufferedReader;
 
 /**
- * Problem Name & Code: Enormous Input Test (INTEST)
+ * Problem Name and Code: Enormous Input Test (INTEST)
  * problem link: https://www.codechef.com/problems/INTEST
  */
 public class EnormousInputTest {
@@ -27,5 +27,4 @@ public class EnormousInputTest {
     System.out.println(total);
     bufferedReader.close();
   }
-
 }

@@ -3,7 +3,7 @@ package com.ukworld.codechef.easy;
 import java.util.Scanner;
 
 /**
- * Problem Name & Code: Life, the Universe, and Everything (TEST)
+ * Problem Name and Code: Life, the Universe, and Everything (TEST)
  * problem link: https://www.codechef.com/problems/TEST
  */
 public class LifeUniverseEverything {

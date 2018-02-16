@@ -11,8 +11,11 @@ import java.util.Random;
 /**
  * Problem Name and Code: Turbo Sort (TSORT)
  * problem link: https://www.codechef.com/problems/TSORT
+ *
+ * Quick Sort Algorithm was not able to pass the code. Time exceeded for worst cases.
+ * Quck sort: average O(nlogn) but for worst cases it was O(n2).
  */
-public class TurboSort {
+public class TurboSortWithQuickSort {
 
   private static Random random = new Random();
   private static String lineSeparator = System.lineSeparator();
